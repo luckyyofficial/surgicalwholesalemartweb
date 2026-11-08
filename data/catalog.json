@@ -1,0 +1,3361 @@
+{
+  "categories": [
+    {
+      "id": "furniture",
+      "name": "Hospital Furniture",
+      "short": "Furniture",
+      "description": "Beds, trolleys, mobility and everyday patient care.",
+      "image": "assets/products/02bb6538d195.png",
+      "icon": "bed",
+      "enquiryOnly": false
+    },
+    {
+      "id": "equipment",
+      "name": "Medical Equipment",
+      "short": "Equipment",
+      "description": "Monitoring, lighting and clinical equipment.",
+      "image": "assets/products/808afd3730d4.png",
+      "icon": "monitor",
+      "enquiryOnly": false
+    },
+    {
+      "id": "instruments",
+      "name": "Surgical Instruments",
+      "short": "Instruments",
+      "description": "Discuss instruments and sets for your specialty.",
+      "image": "assets/products/category-instruments.webp",
+      "icon": "scissors",
+      "enquiryOnly": false,
+      "requests": [
+        "General surgical instruments",
+        "Gynaecology instrument sets",
+        "ENT instrument sets"
+      ]
+    },
+    {
+      "id": "mgps",
+      "name": "MGPS & Modular OT",
+      "short": "MGPS & OT",
+      "description": "Medical gas accessories and theatre infrastructure.",
+      "image": "assets/products/a19726a622b7.png",
+      "icon": "activity",
+      "enquiryOnly": false
+    },
+    {
+      "id": "linen",
+      "name": "Hospital Linen",
+      "short": "Linen",
+      "description": "Curtaining and ward privacy essentials.",
+      "image": "assets/products/541685af7f1c.png",
+      "icon": "layers",
+      "enquiryOnly": false
+    },
+    {
+      "id": "consumables",
+      "name": "Medical Consumables",
+      "short": "Consumables",
+      "description": "Share your consumable types, sizes and quantities.",
+      "image": "https://shootingstartrading.ph/images/category/consumable.jpg",
+      "icon": "box",
+      "enquiryOnly": false,
+      "requests": [
+        "Syringes & needles",
+        "Dressings, bandages & medical tapes",
+        "Gloves & personal protective equipment"
+      ],
+      "imageSource": "https://shootingstartrading.ph/",
+      "imageReview": "Visually reviewed: no visible branding or watermarks. 784 \u00d7 1168 category flat lay."
+    }
+  ],
+  "products": [
+    {
+      "id": "02bb6538d195",
+      "name": "Five-Function Electric ICU Bed",
+      "category": "furniture",
+      "subcategory": "Hospital beds",
+      "department": "icu",
+      "image": "assets/products/02bb6538d195.png",
+      "features": [
+        "Electric adjustment",
+        "Five-function design",
+        "ABS head & foot boards"
+      ],
+      "description": "Electric adjustment \u00b7 Five-function design \u00b7 ABS head & foot boards. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/beds/i-c-u-bed-five-functional-electric-imported-swm-11000",
+      "sourceName": "I.C.U Bed Five Functional Electric (Imported)",
+      "imageSource": "https://www.drsmith.co.in/assets/general%20wards%20%26%20patient%20rooms/i-c-u-bed-five-functional-electric-imported-transparent-77e72a5738.png"
+    },
+    {
+      "id": "d1d7247e1be0",
+      "name": "Hydraulic Emergency Patient Trolley",
+      "category": "furniture",
+      "subcategory": "Patient transfer",
+      "department": "emergency",
+      "image": "assets/products/d1d7247e1be0.png",
+      "features": [
+        "Hydraulic adjustment",
+        "Patient transfer trolley"
+      ],
+      "description": "Hydraulic adjustment \u00b7 Patient transfer trolley. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/stretcher-trolley/emergency-patient-trolley-hydraulic-swm-11042",
+      "sourceName": "Emergency Patient Trolley Hydraulic",
+      "imageSource": "https://www.drsmith.co.in/assets/emergency%20%26%20trauma/emergency-patient-trolley-hydraulic-transparent-f7f8d84a12.png"
+    },
+    {
+      "id": "046172436ac2",
+      "name": "Patient Wheelchair",
+      "category": "furniture",
+      "subcategory": "Mobility aids",
+      "department": "ward",
+      "image": "assets/products/046172436ac2.png",
+      "features": [
+        "Patient mobility",
+        "Indian & imported options"
+      ],
+      "description": "Patient mobility \u00b7 Indian & imported options. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/wheelchairs/wheel-chair-indian-imported-swm-11063",
+      "sourceName": "Wheel Chair (Indian & Imported)",
+      "imageSource": "https://www.drsmith.co.in/assets/general%20wards%20%26%20patient%20rooms/wheel-chair-indian-imported-transparent-d3e76915ae.png",
+      "additionalSources": [
+        {
+          "name": "Manual Wheel Chair",
+          "url": "https://www.surgicalwholesalemart.co.in/products-and-services.html"
+        }
+      ]
+    },
+    {
+      "id": "499dc31aa817",
+      "name": "ABS Bedside Locker",
+      "category": "furniture",
+      "subcategory": "Bedside essentials",
+      "department": "ward",
+      "image": "assets/products/499dc31aa817.png",
+      "features": [
+        "ABS type",
+        "Bedside storage"
+      ],
+      "description": "ABS type \u00b7 Bedside storage. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/bed-side-locker/bed-side-locker-abs-type-swm-11061",
+      "sourceName": "Bed Side Locker ABS Type",
+      "imageSource": "https://www.drsmith.co.in/assets/general%20wards%20%26%20patient%20rooms/bed-side-locker-abs-type-transparent-a565a2cc1e.png",
+      "additionalSources": [
+        {
+          "name": "ABS Bed Side Locker",
+          "url": "https://www.surgicalwholesalemart.co.in/products-and-services.html"
+        }
+      ]
+    },
+    {
+      "id": "9065d7fe01a7",
+      "name": "Deluxe Examination Couch",
+      "category": "furniture",
+      "subcategory": "Examination furniture",
+      "department": "opd",
+      "image": "assets/products/9065d7fe01a7.png",
+      "features": [
+        "Examination couch",
+        "Deluxe configuration"
+      ],
+      "description": "Examination couch \u00b7 Deluxe configuration. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/examination-gynecology/examination-couch-deluxe-swm-11054",
+      "sourceName": "Examination Couch Deluxe",
+      "imageSource": "https://www.drsmith.co.in/assets/opd%20%26%20examination%20rooms/examination-couch-deluxe-transparent-f55d7539bc.png",
+      "additionalSources": [
+        {
+          "name": "Deluxe Examination Couch",
+          "url": "https://www.surgicalwholesalemart.co.in/products-and-services.html"
+        }
+      ]
+    },
+    {
+      "id": "c42d0c599c9a",
+      "name": "Semi-Electric C-Arm OT Table",
+      "category": "furniture",
+      "subcategory": "Operating tables",
+      "department": "ot",
+      "image": "assets/products/c42d0c599c9a.png",
+      "features": [
+        "Semi-electric operation",
+        "C-arm OT table"
+      ],
+      "description": "Semi-electric operation \u00b7 C-arm OT table. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/ot-tables/ot-table-semi-electric-c-arm-swm-11031",
+      "sourceName": "OT Table Semi Electric C-Arm",
+      "imageSource": "https://www.drsmith.co.in/assets/operation%20theatre%20%26%20anaesthesia/ot-table-semi-electric-c-arm-transparent-1899a8a7d4.png"
+    },
+    {
+      "id": "2309963f11be",
+      "name": "Globus Dome OT Light",
+      "category": "equipment",
+      "subcategory": "Surgical lighting",
+      "department": "ot",
+      "image": "assets/products/2309963f11be.png",
+      "features": [
+        "Globus dome design",
+        "Operating theatre lighting"
+      ],
+      "description": "Globus dome design \u00b7 Operating theatre lighting. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/ot-lights/ot-light-premium-globus-dome-swm-11024",
+      "sourceName": "OT Light Premium Globus Dome",
+      "imageSource": "https://www.drsmith.co.in/assets/operation%20theatre%20%26%20anaesthesia/ot-light-premium-globus-dome-transparent-e5aef92087.png"
+    },
+    {
+      "id": "4faf3d170da3",
+      "name": "OT Examination Light",
+      "category": "equipment",
+      "subcategory": "Surgical lighting",
+      "department": "opd",
+      "image": "assets/products/4faf3d170da3.png",
+      "features": [
+        "Examination lighting",
+        "Operating theatre use"
+      ],
+      "description": "Examination lighting \u00b7 Operating theatre use. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/ot-lights/ot-examination-light-swm-11028",
+      "sourceName": "OT Examination Light",
+      "imageSource": "https://www.drsmith.co.in/assets/opd%20%26%20examination%20rooms/ot-examination-light-transparent-2571573afb.png"
+    },
+    {
+      "id": "754d8a1e3199",
+      "name": "Suction Machine",
+      "category": "equipment",
+      "subcategory": "Suction equipment",
+      "department": "icu",
+      "image": "assets/products/754d8a1e3199.png",
+      "features": [
+        "Fiber & MS options",
+        "Suction equipment"
+      ],
+      "description": "Fiber & MS options \u00b7 Suction equipment. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/suction-machine/suction-machine-fiber-ms-swm-11133",
+      "sourceName": "Suction Machine (Fiber & MS)",
+      "imageSource": "https://www.drsmith.co.in/assets/icu%20%26%20critical%20care/half%20suction%20machine.png?v=adf357533140",
+      "additionalSources": [
+        {
+          "name": "Suction Machines Ms",
+          "url": "https://www.surgicalwholesalemart.co.in/products-and-services.html"
+        }
+      ]
+    },
+    {
+      "id": "808afd3730d4",
+      "name": "Seven-Parameter Patient Monitor",
+      "category": "equipment",
+      "subcategory": "Patient monitoring",
+      "department": "icu",
+      "image": "assets/products/808afd3730d4.png",
+      "features": [
+        "Seven-parameter monitor",
+        "Bedside monitoring"
+      ],
+      "description": "Seven-parameter monitor \u00b7 Bedside monitoring. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/icu-products/7-para-monitor",
+      "sourceName": "7 Para Monitor",
+      "imageSource": "https://www.drsmith.co.in/assets/icu%20%26%20critical%20care/7%20para%20monitor.png?v=cac78a1dfdcf"
+    },
+    {
+      "id": "a19726a622b7",
+      "name": "Surgical Scrub Station",
+      "category": "mgps",
+      "subcategory": "Scrub stations",
+      "department": "ot",
+      "image": "assets/products/a19726a622b7.png",
+      "features": [
+        "Sensor & manual options",
+        "Surgical hand-wash station"
+      ],
+      "description": "Sensor & manual options \u00b7 Surgical hand-wash station. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/scrub-station/surgical-scrub-station-sensor-manual-swm-11045",
+      "sourceName": "Surgical Scrub Station Sensor & Manual",
+      "imageSource": "https://www.drsmith.co.in/assets/icu%20%26%20critical%20care/scrub%20station.png?v=3fc7d3d5a3a0"
+    },
+    {
+      "id": "a38fe7705468",
+      "name": "BPC Oxygen Flow Meter",
+      "category": "mgps",
+      "subcategory": "Medical gas accessories",
+      "department": "icu",
+      "image": "assets/products/a38fe7705468.png",
+      "features": [
+        "BPC flow meter",
+        "Oxygen delivery accessory"
+      ],
+      "description": "BPC flow meter \u00b7 Oxygen delivery accessory. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/modular-ot/cat-bpc-flow-meter",
+      "sourceName": "BPC Flow Meter",
+      "imageSource": "https://www.drsmith.co.in/assets/respiratory%20%26%20pulmonology/bpc-flow-meter-transparent-379d910017.png"
+    },
+    {
+      "id": "9118d4f0a40e",
+      "name": "Medical Vacuum Jar",
+      "category": "mgps",
+      "subcategory": "Medical gas accessories",
+      "department": "ot",
+      "image": "assets/products/9118d4f0a40e.png",
+      "features": [
+        "Vacuum collection jar",
+        "Medical gas accessory"
+      ],
+      "description": "Vacuum collection jar \u00b7 Medical gas accessory. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/modular-ot/cat-vacuum-jar",
+      "sourceName": "Vacuum Jar",
+      "imageSource": "https://www.drsmith.co.in/assets/hospital%20infrastructure%20%26%20engineering/vacuum-jar-transparent-bebcece3c1.png"
+    },
+    {
+      "id": "13cb6a9b64d8",
+      "name": "Medical Power Column",
+      "category": "mgps",
+      "subcategory": "Medical service systems",
+      "department": "ot",
+      "image": "assets/products/13cb6a9b64d8.png",
+      "features": [
+        "Power column",
+        "Theatre service infrastructure"
+      ],
+      "description": "Power column \u00b7 Theatre service infrastructure. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/modular-ot/cat-power-column",
+      "sourceName": "Power Column",
+      "imageSource": "https://www.drsmith.co.in/assets/operation%20theatre%20%26%20anaesthesia/power-column-transparent-98f7fa2dc2.png"
+    },
+    {
+      "id": "541685af7f1c",
+      "name": "ICU & Ward Privacy Curtaining",
+      "category": "linen",
+      "subcategory": "Privacy curtains",
+      "department": "ward",
+      "image": "assets/products/541685af7f1c.png",
+      "features": [
+        "ICU & ward use",
+        "Privacy curtaining"
+      ],
+      "description": "ICU & ward use \u00b7 Privacy curtaining. Request the available configuration, dimensions and scope of supply for your facility.",
+      "source": "https://www.drsmith.co.in/catalogue/hospital-linen/i-c-u-ward-curtaining-swm-11138",
+      "sourceName": "ICU & Ward Curtaining",
+      "imageSource": "https://www.drsmith.co.in/assets/general%20wards%20%26%20patient%20rooms/icu-ward-curtaining-transparent-f6d0d9e456.png"
+    },
+    {
+      "id": "swm-96ab5311a16a",
+      "name": "Hospital Semi Fowler Electrical Bed",
+      "category": "furniture",
+      "subcategory": "Hospital Bed And Mattress",
+      "department": "ward",
+      "image": "https://www.drsmith.co.in/assets/general%20wards%20%26%20patient%20rooms/semi-fowler-bed-electric-deluxe-transparent-c47b6b3ea7.png",
+      "features": [
+        "Hospital Bed And Mattress",
+        "Configuration on enquiry"
+      ],
+      "description": "Hospital Semi Fowler Electrical Bed, listed in the Hospital Bed And Mattress range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hospital Semi Fowler Electrical Bed",
+      "imageSource": "https://www.drsmith.co.in/catalogue/beds/semi-fowler-bed-electric-deluxe-swm-11014",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Unbranded semi-Fowler electric bed. Exact quoted configuration must be confirmed.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-3b091738406f",
+      "name": "Super Deluxe Semi Fowler Bed",
+      "category": "furniture",
+      "subcategory": "Hospital Bed And Mattress",
+      "department": "ward",
+      "image": null,
+      "features": [
+        "Hospital Bed And Mattress",
+        "Configuration on enquiry"
+      ],
+      "description": "Super Deluxe Semi Fowler Bed, listed in the Hospital Bed And Mattress range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Super Deluxe Semi Fowler Bed",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-6ebf33b4442d",
+      "name": "PLAIN BED SUPER DELUXE",
+      "category": "furniture",
+      "subcategory": "Hospital Bed And Mattress",
+      "department": "ward",
+      "image": "https://www.drsmith.co.in/assets/general%20wards%20%26%20patient%20rooms/plain-bed-super-deluxe-abs-panels-transparent-880fcab5e5.png",
+      "features": [
+        "Hospital Bed And Mattress",
+        "Configuration on enquiry"
+      ],
+      "description": "PLAIN BED SUPER DELUXE, listed in the Hospital Bed And Mattress range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "PLAIN BED SUPER DELUXE",
+      "imageSource": "https://www.drsmith.co.in/catalogue/beds/plain-bed-super-deluxe-abs-panels-swm-11017",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Unbranded plain super-deluxe bed with ABS panels; generic product reference.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-5888c16393af",
+      "name": "ANESTHESIA WORKSTATION GOLD",
+      "category": "equipment",
+      "subcategory": "Medical Equipment",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Medical Equipment",
+        "Configuration on enquiry"
+      ],
+      "description": "ANESTHESIA WORKSTATION GOLD, listed in the Medical Equipment range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ANESTHESIA WORKSTATION GOLD",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-09f9e046e900",
+      "name": "ANESTHESIA WORKSTATION DIAMOND",
+      "category": "equipment",
+      "subcategory": "Medical Equipment",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Medical Equipment",
+        "Configuration on enquiry"
+      ],
+      "description": "ANESTHESIA WORKSTATION DIAMOND, listed in the Medical Equipment range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ANESTHESIA WORKSTATION DIAMOND",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-474fba3d233d",
+      "name": "Single Dome LED OT Light",
+      "category": "equipment",
+      "subcategory": "OT Light",
+      "department": "ot",
+      "image": "https://www.drsmith.co.in/assets/operation%20theatre%20%26%20anaesthesia/ot-light-premium-globus-dome-transparent-e5aef92087.png",
+      "features": [
+        "OT Light",
+        "Configuration on enquiry"
+      ],
+      "description": "Single Dome LED OT Light, listed in the OT Light range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Single Dome LED OT Light",
+      "imageSource": "https://www.drsmith.co.in/catalogue/ot-lights/ot-light-premium-globus-dome-swm-11024",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Clear single-dome LED theatre light on mobile stand. Previously inspected source photograph has no logo or watermark. Generic lighting reference; mounting configuration is confirmed with the quotation.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-942a97451235",
+      "name": "LED OT Light",
+      "category": "equipment",
+      "subcategory": "OT Light",
+      "department": "ot",
+      "image": "https://www.drsmith.co.in/assets/operation%20theatre%20%26%20anaesthesia/ot-light-premium-globus-dome-transparent-e5aef92087.png",
+      "features": [
+        "OT Light",
+        "Configuration on enquiry"
+      ],
+      "description": "LED OT Light, listed in the OT Light range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "LED OT Light",
+      "imageSource": "https://www.drsmith.co.in/catalogue/ot-lights/ot-light-premium-globus-dome-swm-11024",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Clear single-dome LED theatre light on mobile stand. Previously inspected source photograph has no logo or watermark. Generic lighting reference; mounting configuration is confirmed with the quotation.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-84a78667f327",
+      "name": "Mobile OT Light",
+      "category": "equipment",
+      "subcategory": "OT Light",
+      "department": "ot",
+      "image": "https://www.drsmith.co.in/assets/operation%20theatre%20%26%20anaesthesia/ot-light-premium-globus-dome-transparent-e5aef92087.png",
+      "features": [
+        "OT Light",
+        "Configuration on enquiry"
+      ],
+      "description": "Mobile OT Light, listed in the OT Light range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Mobile OT Light",
+      "imageSource": "https://www.drsmith.co.in/catalogue/ot-lights/ot-light-premium-globus-dome-swm-11024",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Clear single-dome LED theatre light on mobile stand. Previously inspected source photograph has no logo or watermark. Generic lighting reference; mounting configuration is confirmed with the quotation.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-708b89892c8a",
+      "name": "ABS Anesthetic Cart",
+      "category": "furniture",
+      "subcategory": "Hospital Trolleys",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Hospital Trolleys",
+        "Configuration on enquiry"
+      ],
+      "description": "ABS Anesthetic Cart, listed in the Hospital Trolleys range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ABS Anesthetic Cart",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-8ac49b7c9a4a",
+      "name": "Emergency Patient Trolley",
+      "category": "furniture",
+      "subcategory": "Hospital Trolleys",
+      "department": "opd",
+      "image": "https://www.drsmith.co.in/assets/emergency%20%26%20trauma/emergency-patient-trolley-hydraulic-transparent-f7f8d84a12.png",
+      "features": [
+        "Hospital Trolleys",
+        "Configuration on enquiry"
+      ],
+      "description": "Emergency Patient Trolley, listed in the Hospital Trolleys range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Emergency Patient Trolley",
+      "imageSource": "https://www.drsmith.co.in/catalogue/stretcher-trolley/emergency-patient-trolley-hydraulic-swm-11042",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Previously inspected clean unbranded photograph matching this generic product type. Quoted configuration must be confirmed.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-20200b803672",
+      "name": "Deluxe Stretcher Trolley",
+      "category": "furniture",
+      "subcategory": "Hospital Trolleys",
+      "department": "opd",
+      "image": "https://www.drsmith.co.in/assets/emergency%20%26%20trauma/stretcher-trolley-deluxe-manual-transparent-f9ba02c182.png",
+      "features": [
+        "Hospital Trolleys",
+        "Configuration on enquiry"
+      ],
+      "description": "Deluxe Stretcher Trolley, listed in the Hospital Trolleys range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Deluxe Stretcher Trolley",
+      "imageSource": "https://www.drsmith.co.in/catalogue/stretcher-trolley/stretcher-trolley-deluxe-manual-swm-11041",
+      "origin": "swm",
+      "imageKind": "exact",
+      "imageReview": "Source explicitly lists deluxe manual stretcher trolley; no visible branding or watermark.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-424126b84564",
+      "name": "Attendant Bed Cum Chair",
+      "category": "furniture",
+      "subcategory": "Hospital Bed",
+      "department": "ward",
+      "image": "https://www.drsmith.co.in/assets/general%20wards%20%26%20patient%20rooms/attendant-bed-cum-chair-transparent-0eed51bfed.png",
+      "features": [
+        "Hospital Bed",
+        "Configuration on enquiry"
+      ],
+      "description": "Attendant Bed Cum Chair, listed in the Hospital Bed range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Attendant Bed Cum Chair",
+      "imageSource": "https://www.drsmith.co.in/catalogue/hospital-furniture/attendant-bed-cum-chair-swm-11046",
+      "origin": "swm",
+      "imageKind": "exact",
+      "imageReview": "Matching attendant bed-cum-chair; no visible branding or watermark.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-9628300da9cb",
+      "name": "FOWLER BED DELUXE A",
+      "category": "furniture",
+      "subcategory": "Hospital Bed",
+      "department": "ward",
+      "image": null,
+      "features": [
+        "Hospital Bed",
+        "Configuration on enquiry"
+      ],
+      "description": "FOWLER BED DELUXE A, listed in the Hospital Bed range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "FOWLER BED DELUXE A",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-511a4f979502",
+      "name": "Super Deluxe Hospital Fowler Bed",
+      "category": "furniture",
+      "subcategory": "Hospital Bed",
+      "department": "ward",
+      "image": "https://www.drsmith.co.in/assets/general%20wards%20%26%20patient%20rooms/fowler-bed-manual-super-deluxe-transparent-baac8b098f.png",
+      "features": [
+        "Hospital Bed",
+        "Configuration on enquiry"
+      ],
+      "description": "Super Deluxe Hospital Fowler Bed, listed in the Hospital Bed range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Super Deluxe Hospital Fowler Bed",
+      "imageSource": "https://www.drsmith.co.in/catalogue/beds/fowler-bed-manual-super-deluxe-swm-11010",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Unbranded manual super-deluxe Fowler bed; generic product reference.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-f519817236b9",
+      "name": "ICU Beds SEMI ELECTRIC",
+      "category": "furniture",
+      "subcategory": "ICU Beds",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "ICU Beds",
+        "Configuration on enquiry"
+      ],
+      "description": "ICU Beds SEMI ELECTRIC, listed in the ICU Beds range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ICU Beds SEMI ELECTRIC",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-3d97f0f968f7",
+      "name": "ICU Beds FIVE FUNCTIONAL ELECTRIC",
+      "category": "furniture",
+      "subcategory": "ICU Beds",
+      "department": "icu",
+      "image": "https://www.drsmith.co.in/assets/general%20wards%20%26%20patient%20rooms/i-c-u-bed-five-functional-electric-imported-transparent-77e72a5738.png",
+      "features": [
+        "ICU Beds",
+        "Configuration on enquiry"
+      ],
+      "description": "ICU Beds FIVE FUNCTIONAL ELECTRIC, listed in the ICU Beds range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ICU Beds FIVE FUNCTIONAL ELECTRIC",
+      "imageSource": "https://www.drsmith.co.in/catalogue/beds/i-c-u-bed-five-functional-electric-imported-swm-11000",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Previously inspected clean unbranded photograph matching this generic product type. Quoted configuration must be confirmed.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-2d06d1676549",
+      "name": "ICU Beds FIVE FUNCTIONAL ELECTRIC (ECO MODEL)",
+      "category": "furniture",
+      "subcategory": "ICU Beds",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "ICU Beds",
+        "Configuration on enquiry"
+      ],
+      "description": "ICU Beds FIVE FUNCTIONAL ELECTRIC (ECO MODEL), listed in the ICU Beds range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ICU Beds FIVE FUNCTIONAL ELECTRIC (ECO MODEL)",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-39a0b8f6cc86",
+      "name": "Medical Surgical Instrument",
+      "category": "instruments",
+      "subcategory": "Surgical Instruments",
+      "department": "ot",
+      "image": "https://www.drsmith.co.in/assets/img/optimized/04-surgical-instruments.d7e390308c1f.webp",
+      "features": [
+        "Surgical Instruments",
+        "Configuration on enquiry"
+      ],
+      "description": "Medical Surgical Instrument, listed in the Surgical Instruments range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Medical Surgical Instrument",
+      "imageSource": "https://www.drsmith.co.in/catalogue/surgical-instruments-family",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Visually inspected full-size category photo: unbranded stainless surgical instruments and trays. No logo or watermark. Reference image of the broad surgical-goods range, not a model-specific instrument-set photograph.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-c10c22bdebe2",
+      "name": "General Surgical Goods",
+      "category": "instruments",
+      "subcategory": "Surgical Instruments",
+      "department": "ot",
+      "image": "https://www.drsmith.co.in/assets/img/optimized/04-surgical-instruments.d7e390308c1f.webp",
+      "features": [
+        "Surgical Instruments",
+        "Configuration on enquiry"
+      ],
+      "description": "General Surgical Goods, listed in the Surgical Instruments range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "General Surgical Goods",
+      "imageSource": "https://www.drsmith.co.in/catalogue/surgical-instruments-family",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Visually inspected full-size category photo: unbranded stainless surgical instruments and trays. No logo or watermark. Reference image of the broad surgical-goods range, not a model-specific instrument-set photograph.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-76fba02b5bf5",
+      "name": "Hernia Surgical Instrument Set",
+      "category": "instruments",
+      "subcategory": "Surgical Instruments",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Surgical Instruments",
+        "Configuration on enquiry"
+      ],
+      "description": "Hernia Surgical Instrument Set, listed in the Surgical Instruments range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hernia Surgical Instrument Set",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-03e3e937945a",
+      "name": "Five Para Monitor",
+      "category": "equipment",
+      "subcategory": "Cardiac & Multi Parameter Patient Monitor",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Cardiac & Multi Parameter Patient Monitor",
+        "Configuration on enquiry"
+      ],
+      "description": "Five Para Monitor, listed in the Cardiac & Multi Parameter Patient Monitor range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Five Para Monitor",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-1921cbdaeaa0",
+      "name": "CMS-7000 Patient Monitor",
+      "category": "equipment",
+      "subcategory": "Cardiac & Multi Parameter Patient Monitor",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Cardiac & Multi Parameter Patient Monitor",
+        "Configuration on enquiry"
+      ],
+      "description": "CMS-7000 Patient Monitor, listed in the Cardiac & Multi Parameter Patient Monitor range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "CMS-7000 Patient Monitor",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-f15883815dc2",
+      "name": "Contec CMS 5100 3 Para Monitor",
+      "category": "equipment",
+      "subcategory": "Cardiac & Multi Parameter Patient Monitor",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Cardiac & Multi Parameter Patient Monitor",
+        "Configuration on enquiry"
+      ],
+      "description": "Contec CMS 5100 3 Para Monitor, listed in the Cardiac & Multi Parameter Patient Monitor range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Contec CMS 5100 3 Para Monitor",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-48e8e3bae893",
+      "name": "Hospital Electric Fowler Bed",
+      "category": "equipment",
+      "subcategory": "ICU & Ward Accesories",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "ICU & Ward Accesories",
+        "Configuration on enquiry"
+      ],
+      "description": "Hospital Electric Fowler Bed, listed in the ICU & Ward Accesories range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hospital Electric Fowler Bed",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-73ded3e57ed6",
+      "name": "Crash Cart With ABS Drawers",
+      "category": "equipment",
+      "subcategory": "ICU & Ward Accesories",
+      "department": "icu",
+      "image": "https://image.chukouplus.com/upload/C_5177/file/20240919/ca7473618bd6dd5b14f2a5657fee16c7.png",
+      "features": [
+        "ICU & Ward Accesories",
+        "Configuration on enquiry"
+      ],
+      "description": "Crash Cart With ABS Drawers, listed in the ICU & Ward Accesories range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Crash Cart With ABS Drawers",
+      "imageSource": "https://www.hospitalbedorp.com/medication-cart.html",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Inspected clean blue/white ABS drawer medical cart, no logo, watermark or branding. Representative drawer-cart configuration; confirm supplied accessories.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-774138254a05",
+      "name": "SS Crash Cart",
+      "category": "equipment",
+      "subcategory": "ICU & Ward Accesories",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "ICU & Ward Accesories",
+        "Configuration on enquiry"
+      ],
+      "description": "SS Crash Cart, listed in the ICU & Ward Accesories range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "SS Crash Cart",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-c3ec540c1b57",
+      "name": "Three Channel Ecg Machine",
+      "category": "equipment",
+      "subcategory": "ECG Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "ECG Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Three Channel Ecg Machine, listed in the ECG Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Three Channel Ecg Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-ec372dc565f4",
+      "name": "CMS-5100 Patient Monitor",
+      "category": "equipment",
+      "subcategory": "ECG Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "ECG Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "CMS-5100 Patient Monitor, listed in the ECG Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "CMS-5100 Patient Monitor",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-56ee9a7d7bc2",
+      "name": "Dr. Smith -121 Patient Monitor",
+      "category": "equipment",
+      "subcategory": "ECG Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "ECG Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Dr. Smith -121 Patient Monitor, listed in the ECG Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Dr. Smith -121 Patient Monitor",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-698f3573e478",
+      "name": "Anaesthesia Machine Diamond Economy",
+      "category": "equipment",
+      "subcategory": "Anaesthesia Machine",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Anaesthesia Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Anaesthesia Machine Diamond Economy, listed in the Anaesthesia Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Anaesthesia Machine Diamond Economy",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-9b79283536db",
+      "name": "ANAESTHESIA MACHINE GOLD",
+      "category": "equipment",
+      "subcategory": "Anaesthesia Machine",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Anaesthesia Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "ANAESTHESIA MACHINE GOLD, listed in the Anaesthesia Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ANAESTHESIA MACHINE GOLD",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-7688fe8760b4",
+      "name": "ANESTHESIA WORKSTATION SILVER",
+      "category": "equipment",
+      "subcategory": "Anaesthesia Machine",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Anaesthesia Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "ANESTHESIA WORKSTATION SILVER, listed in the Anaesthesia Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ANESTHESIA WORKSTATION SILVER",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-2df2d470d1f1",
+      "name": "Electric Cum Manual C Arm Operation Table",
+      "category": "furniture",
+      "subcategory": "Delivery And Operation Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Delivery And Operation Table",
+        "Configuration on enquiry"
+      ],
+      "description": "Electric Cum Manual C Arm Operation Table, listed in the Delivery And Operation Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Electric Cum Manual C Arm Operation Table",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-5865e318d71b",
+      "name": "C Arm Operation Table",
+      "category": "furniture",
+      "subcategory": "Delivery And Operation Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Delivery And Operation Table",
+        "Configuration on enquiry"
+      ],
+      "description": "C Arm Operation Table, listed in the Delivery And Operation Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "C Arm Operation Table",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-5976fde18d2c",
+      "name": "Delivery Table Hydraulic Deluxe",
+      "category": "furniture",
+      "subcategory": "Delivery And Operation Table",
+      "department": "ot",
+      "image": "https://www.drsmith.co.in/assets/obstetrics%20%26%20gynaecology/delivery-table-hydraulic-deluxe-transparent-2a02ef137a.png",
+      "features": [
+        "Delivery And Operation Table",
+        "Configuration on enquiry"
+      ],
+      "description": "Delivery Table Hydraulic Deluxe, listed in the Delivery And Operation Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Delivery Table Hydraulic Deluxe",
+      "imageSource": "https://www.drsmith.co.in/catalogue/delivery-table/delivery-table-hydraulic-deluxe-swm-11038",
+      "origin": "swm",
+      "imageKind": "exact",
+      "imageReview": "Source explicitly lists Delivery Table Hydraulic Deluxe; no visible branding or watermark.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-acd1619b9c6e",
+      "name": "Dr. Smith Xeron I-Vent Plus ICU Ventilator",
+      "category": "equipment",
+      "subcategory": "ICU Ventilator",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "ICU Ventilator",
+        "Configuration on enquiry"
+      ],
+      "description": "Dr. Smith Xeron I-Vent Plus ICU Ventilator, listed in the ICU Ventilator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Dr. Smith Xeron I-Vent Plus ICU Ventilator",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-cfdc27be8412",
+      "name": "Xeron I-Vent Mini Plus ICU Ventilator",
+      "category": "equipment",
+      "subcategory": "ICU Ventilator",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "ICU Ventilator",
+        "Configuration on enquiry"
+      ],
+      "description": "Xeron I-Vent Mini Plus ICU Ventilator, listed in the ICU Ventilator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Xeron I-Vent Mini Plus ICU Ventilator",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-dab0c29ef93e",
+      "name": "VG70 Aeonmed Ventilator",
+      "category": "equipment",
+      "subcategory": "ICU Ventilator",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "ICU Ventilator",
+        "Configuration on enquiry"
+      ],
+      "description": "VG70 Aeonmed Ventilator, listed in the ICU Ventilator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "VG70 Aeonmed Ventilator",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-dfed9b8df651",
+      "name": "O.T TABLE C-ARM ELECTRIC + MANUAL",
+      "category": "furniture",
+      "subcategory": "Ot Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Ot Table",
+        "Configuration on enquiry"
+      ],
+      "description": "O.T TABLE C-ARM ELECTRIC + MANUAL, listed in the Ot Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "O.T TABLE C-ARM ELECTRIC + MANUAL",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-cb9a76a5de83",
+      "name": "ELECTRIC C-ARM TABLE WITHOUT TOP SLIDE",
+      "category": "furniture",
+      "subcategory": "Ot Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Ot Table",
+        "Configuration on enquiry"
+      ],
+      "description": "ELECTRIC C-ARM TABLE WITHOUT TOP SLIDE, listed in the Ot Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ELECTRIC C-ARM TABLE WITHOUT TOP SLIDE",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-2571bdb0f6da",
+      "name": "Electric Manual C Arm OT Table",
+      "category": "furniture",
+      "subcategory": "Ot Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Ot Table",
+        "Configuration on enquiry"
+      ],
+      "description": "Electric Manual C Arm OT Table, listed in the Ot Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Electric Manual C Arm OT Table",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-4888c72e4074",
+      "name": "Mannequins For Medical",
+      "category": "equipment",
+      "subcategory": "Medical Mannequin",
+      "department": "opd",
+      "image": "https://i.ebayimg.com/images/g/YWUAAeSwob9pQ3VX/s-l1600.jpg",
+      "features": [
+        "Medical Mannequin",
+        "Configuration on enquiry"
+      ],
+      "description": "Mannequins For Medical, listed in the Medical Mannequin range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Mannequins For Medical",
+      "imageSource": "https://www.ebay.com/itm/358028378158",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Viewed full-size: clear full-body female nursing-training manikin on white. No printed logos, watermark, brand label or markings. Generic training-model reference; exact supported training procedures are not implied.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-f34181937485",
+      "name": "Adult Cpr Training Manikin",
+      "category": "equipment",
+      "subcategory": "Medical Mannequin",
+      "department": "opd",
+      "image": "https://www.gtsimulators.com/cdn/shop/products/prestan-ultralite-cpr-training-manikins-with-cpr-feedback-12-pack-pp-ulm-1200m-ms-609976_1000x.jpg?v=1657125937",
+      "features": [
+        "Medical Mannequin",
+        "Configuration on enquiry"
+      ],
+      "description": "Adult Cpr Training Manikin, listed in the Medical Mannequin range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Adult Cpr Training Manikin",
+      "imageSource": "https://www.gtsimulators.com/products/prestan-ultralite-cpr-training-manikins-with-cpr-feedback-12-pack-pp-ulm-1200m-ms",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Inspected at 1000x1000: unmarked plain adult CPR torso, with no brand/logo/watermark and no branded packaging. Generic adult CPR training reference only; no specific mechanism or feedback capability implied.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-e9b502ba3747",
+      "name": "Female Nursing Manikin, Human Shape",
+      "category": "equipment",
+      "subcategory": "Medical Mannequin",
+      "department": "opd",
+      "image": "https://i.ebayimg.com/images/g/YWUAAeSwob9pQ3VX/s-l1600.jpg",
+      "features": [
+        "Medical Mannequin",
+        "Configuration on enquiry"
+      ],
+      "description": "Female Nursing Manikin, Human Shape, listed in the Medical Mannequin range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Female Nursing Manikin, Human Shape",
+      "imageSource": "https://www.ebay.com/itm/358028378158",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Viewed full-size: clear full-body female nursing-training manikin on white. No printed logos, watermark, brand label or markings. Generic training-model reference; exact supported training procedures are not implied.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-d15492707b70",
+      "name": "Modular Operation Theater",
+      "category": "mgps",
+      "subcategory": "Modular Operation Theatre",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Modular Operation Theatre",
+        "Configuration on enquiry"
+      ],
+      "description": "Modular Operation Theater, listed in the Modular Operation Theatre range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Modular Operation Theater",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm",
+      "additionalSources": [
+        {
+          "name": "Modular Operation Theater",
+          "url": "https://www.surgicalwholesalemart.co.in/products-and-services.html"
+        }
+      ]
+    },
+    {
+      "id": "swm-a1ee21d72fe3",
+      "name": "Autoclave Pressure Cooker",
+      "category": "equipment",
+      "subcategory": "Horizontal Autoclave",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Horizontal Autoclave",
+        "Configuration on enquiry"
+      ],
+      "description": "Autoclave Pressure Cooker, listed in the Horizontal Autoclave range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Autoclave Pressure Cooker",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-4b7316d5e79b",
+      "name": "Vertical Cylindrical Autoclave",
+      "category": "equipment",
+      "subcategory": "Horizontal Autoclave",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Horizontal Autoclave",
+        "Configuration on enquiry"
+      ],
+      "description": "Vertical Cylindrical Autoclave, listed in the Horizontal Autoclave range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Vertical Cylindrical Autoclave",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-bf2b8442acc3",
+      "name": "Semi Automatic Laboratory Autoclave",
+      "category": "equipment",
+      "subcategory": "Horizontal Autoclave",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Horizontal Autoclave",
+        "Configuration on enquiry"
+      ],
+      "description": "Semi Automatic Laboratory Autoclave, listed in the Horizontal Autoclave range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Semi Automatic Laboratory Autoclave",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-9c3661612cf2",
+      "name": "Surgi HUB-124 Patient Monitor",
+      "category": "equipment",
+      "subcategory": "Patient Monitor",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Patient Monitor",
+        "Configuration on enquiry"
+      ],
+      "description": "Surgi HUB-124 Patient Monitor, listed in the Patient Monitor range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Surgi HUB-124 Patient Monitor",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-5a43418000ac",
+      "name": "Three Para Monitor",
+      "category": "equipment",
+      "subcategory": "Patient Monitor",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Patient Monitor",
+        "Configuration on enquiry"
+      ],
+      "description": "Three Para Monitor, listed in the Patient Monitor range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Three Para Monitor",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-dd11917f7c20",
+      "name": "CMS-9200 Patient Monitor",
+      "category": "equipment",
+      "subcategory": "Patient Monitor",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Patient Monitor",
+        "Configuration on enquiry"
+      ],
+      "description": "CMS-9200 Patient Monitor, listed in the Patient Monitor range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "CMS-9200 Patient Monitor",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-cf2858408a42",
+      "name": "Bubble Humidifier Bottle",
+      "category": "mgps",
+      "subcategory": "Medical Gas Pipeline",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Medical Gas Pipeline",
+        "Configuration on enquiry"
+      ],
+      "description": "Bubble Humidifier Bottle, listed in the Medical Gas Pipeline range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Bubble Humidifier Bottle",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-cfe6812a7727",
+      "name": "Modular OT Medical Gas Pipeline",
+      "category": "mgps",
+      "subcategory": "Medical Gas Pipeline",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Medical Gas Pipeline",
+        "Configuration on enquiry"
+      ],
+      "description": "Modular OT Medical Gas Pipeline, listed in the Medical Gas Pipeline range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Modular OT Medical Gas Pipeline",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-948cbbe8feeb",
+      "name": "Medical Oxygen Pipeline",
+      "category": "mgps",
+      "subcategory": "Medical Gas Pipeline",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Medical Gas Pipeline",
+        "Configuration on enquiry"
+      ],
+      "description": "Medical Oxygen Pipeline, listed in the Medical Gas Pipeline range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Medical Oxygen Pipeline",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-fc4437e58a9e",
+      "name": "SS Bedside Locker",
+      "category": "furniture",
+      "subcategory": "Bed Side Locker",
+      "department": "ward",
+      "image": null,
+      "features": [
+        "Bed Side Locker",
+        "Configuration on enquiry"
+      ],
+      "description": "SS Bedside Locker, listed in the Bed Side Locker range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "SS Bedside Locker",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-36d5c8fb6204",
+      "name": "Hospital Bed Side Locker",
+      "category": "furniture",
+      "subcategory": "Bed Side Locker",
+      "department": "ward",
+      "image": "https://asco-furniture.com/wp-content/uploads/2020/12/MEDICINE-SIDE-CUPBOARD-SUPREME-PLUS-MF6806-1024x956.jpg",
+      "features": [
+        "Bed Side Locker",
+        "Configuration on enquiry"
+      ],
+      "description": "Hospital Bed Side Locker, listed in the Bed Side Locker range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hospital Bed Side Locker",
+      "imageSource": "https://www.drsmith.co.in/catalogue/hf08-bedside-lockers-overbed-tables",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Clean orange bedside cabinet with stainless-steel top, no branding visible; generic bedside-locker reference.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-3d7621799fbb",
+      "name": "Breast Reduction Surgical Instrument Set",
+      "category": "instruments",
+      "subcategory": "Surgical Instrument Set",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Surgical Instrument Set",
+        "Configuration on enquiry"
+      ],
+      "description": "Breast Reduction Surgical Instrument Set, listed in the Surgical Instrument Set range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Breast Reduction Surgical Instrument Set",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-5c2a7a1e813e",
+      "name": "Blepharoplasty Surgical Instrument Set",
+      "category": "instruments",
+      "subcategory": "Surgical Instrument Set",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Surgical Instrument Set",
+        "Configuration on enquiry"
+      ],
+      "description": "Blepharoplasty Surgical Instrument Set, listed in the Surgical Instrument Set range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Blepharoplasty Surgical Instrument Set",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-d4e2e0f65fb6",
+      "name": "Cesarean Section Surgical Instrument Set",
+      "category": "instruments",
+      "subcategory": "Surgical Instrument Set",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Surgical Instrument Set",
+        "Configuration on enquiry"
+      ],
+      "description": "Cesarean Section Surgical Instrument Set, listed in the Surgical Instrument Set range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Cesarean Section Surgical Instrument Set",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-0d110cd5eb78",
+      "name": "Surgical Disposable Face Mask",
+      "category": "consumables",
+      "subcategory": "Surgical Face Mask And Bipap Mask",
+      "department": "icu",
+      "image": "https://continental-eyewear.com/cdn/shop/products/DISPOSABLEMASK-ADULT-FLAT_1800x.jpg?v=1591457421",
+      "features": [
+        "Surgical Face Mask And Bipap Mask",
+        "Configuration on enquiry"
+      ],
+      "description": "Surgical Disposable Face Mask, listed in the Surgical Face Mask And Bipap Mask range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Surgical Disposable Face Mask",
+      "imageSource": "https://continental-eyewear.com/products/disposable-face-mask",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Viewed full-size source photo: crisp blue pleated mask with ear loops on white; no visible branding, logo, printed trade name or watermark. Generic reference only; no model, certification or pack-size equivalence implied.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-33b77a5c8fca",
+      "name": "Surgical Face Mask",
+      "category": "consumables",
+      "subcategory": "Surgical Face Mask And Bipap Mask",
+      "department": "icu",
+      "image": "https://continental-eyewear.com/cdn/shop/products/DISPOSABLEMASK-ADULT-FLAT_1800x.jpg?v=1591457421",
+      "features": [
+        "Surgical Face Mask And Bipap Mask",
+        "Configuration on enquiry"
+      ],
+      "description": "Surgical Face Mask, listed in the Surgical Face Mask And Bipap Mask range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Surgical Face Mask",
+      "imageSource": "https://continental-eyewear.com/products/disposable-face-mask",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Viewed full-size source photo: crisp blue pleated mask with ear loops on white; no visible branding, logo, printed trade name or watermark. Generic reference only; no model, certification or pack-size equivalence implied.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-952a13bc1a34",
+      "name": "Bipap Face Mask",
+      "category": "consumables",
+      "subcategory": "Surgical Face Mask And Bipap Mask",
+      "department": "icu",
+      "image": "https://cdn11.bigcommerce.com/s-tpqzcgbzuv/images/stencil/1280x1280/products/966/698/PF260460_PRI01__97161.1642179846.JPG?c=1",
+      "features": [
+        "Surgical Face Mask And Bipap Mask",
+        "Configuration on enquiry"
+      ],
+      "description": "Bipap Face Mask, listed in the Surgical Face Mask And Bipap Mask range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Bipap Face Mask",
+      "imageSource": "https://breathingcaremed.com/niv-full-face-mask-cpap/",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Inspected at full resolution: transparent full-face NIV mask and blue headgear; no visible manufacturer logo or watermark. Generic reference only; do not imply model, sizing, port or ventilation compatibility.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-823c8fe20740",
+      "name": "400 W Surgical Cautery Machine",
+      "category": "equipment",
+      "subcategory": "Cautery Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Cautery Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "400 W Surgical Cautery Machine, listed in the Cautery Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "400 W Surgical Cautery Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-f7df05d72dbe",
+      "name": "300W Cautery Machine",
+      "category": "equipment",
+      "subcategory": "Cautery Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Cautery Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "300W Cautery Machine, listed in the Cautery Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "300W Cautery Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-af19e952834e",
+      "name": "Analog Cautery Machine",
+      "category": "equipment",
+      "subcategory": "Cautery Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Cautery Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Analog Cautery Machine, listed in the Cautery Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Analog Cautery Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-bdc58927748c",
+      "name": "Portable Oxygen Concentrator",
+      "category": "equipment",
+      "subcategory": "Oxygen Concentrator",
+      "department": "icu",
+      "image": "https://hacenoroxygen.com/cdn/shop/files/1_f7ab718d-81c7-4bea-9b2c-161910a5dab3_1600x.png?v=1727246094",
+      "features": [
+        "Oxygen Concentrator",
+        "Configuration on enquiry"
+      ],
+      "description": "Portable Oxygen Concentrator, listed in the Oxygen Concentrator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Portable Oxygen Concentrator",
+      "imageSource": "https://hacenoroxygen.com/products/hacenor-5-liters-adjustable-continuous-flow-battery-oxygen-concentrator-hcn-5b",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Inspected clean portable oxygen concentrator on white background. No logo, wordmark, watermark or visible branding. Generic reference only; no flow/purity specification imported.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-1f23e2085f4e",
+      "name": "Oxygen Concentrator Machine",
+      "category": "equipment",
+      "subcategory": "Oxygen Concentrator",
+      "department": "icu",
+      "image": "https://sc04.alicdn.com/kf/H82e2768824d34f26ad33d2527005a092k.jpg",
+      "features": [
+        "Oxygen Concentrator",
+        "Configuration on enquiry"
+      ],
+      "description": "Oxygen Concentrator Machine, listed in the Oxygen Concentrator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Oxygen Concentrator Machine",
+      "imageSource": "https://www.minterhealth.com/portable-5l-oxygen-generator",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Inspected clean stationary oxygen concentrator on white background. Front shows operational control labels only, no manufacturer wordmark/logo or watermark. Generic reference; quoted configuration must be confirmed.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-dba08baa884d",
+      "name": "Jay-10 Daul Flow Oxygen Concentrator",
+      "category": "equipment",
+      "subcategory": "Oxygen Concentrator",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Oxygen Concentrator",
+        "Configuration on enquiry"
+      ],
+      "description": "Jay-10 Daul Flow Oxygen Concentrator, listed in the Oxygen Concentrator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Jay-10 Daul Flow Oxygen Concentrator",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-a83968d5138f",
+      "name": "CMS-50D Fingertrip Pulse Oximeter",
+      "category": "equipment",
+      "subcategory": "Pulse Oximeter",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Pulse Oximeter",
+        "Configuration on enquiry"
+      ],
+      "description": "CMS-50D Fingertrip Pulse Oximeter, listed in the Pulse Oximeter range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "CMS-50D Fingertrip Pulse Oximeter",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-a42b068a1977",
+      "name": "CMS-60C Hand Held Pulse Oximeter",
+      "category": "equipment",
+      "subcategory": "Pulse Oximeter",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Pulse Oximeter",
+        "Configuration on enquiry"
+      ],
+      "description": "CMS-60C Hand Held Pulse Oximeter, listed in the Pulse Oximeter range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "CMS-60C Hand Held Pulse Oximeter",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-18f09ff74ef8",
+      "name": "Simple manikin Set",
+      "category": "equipment",
+      "subcategory": "Pulse Oximeter",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Pulse Oximeter",
+        "Configuration on enquiry"
+      ],
+      "description": "Simple manikin Set, listed in the Pulse Oximeter range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Simple manikin Set",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-a1e59443acfb",
+      "name": "ANAESTHESIA MACHINE DIAMOND DELUXE",
+      "category": "equipment",
+      "subcategory": "Anesthesia Machine",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Anesthesia Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "ANAESTHESIA MACHINE DIAMOND DELUXE, listed in the Anesthesia Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ANAESTHESIA MACHINE DIAMOND DELUXE",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-823c60f3bc11",
+      "name": "Anesthesia Machine",
+      "category": "equipment",
+      "subcategory": "Anesthesia Machine",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Anesthesia Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Anesthesia Machine, listed in the Anesthesia Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Anesthesia Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-e71aa65420a3",
+      "name": "Surgihub Skin color Anesthesiology Lab Kit",
+      "category": "equipment",
+      "subcategory": "Anesthesia Machine",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Anesthesia Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Surgihub Skin color Anesthesiology Lab Kit, listed in the Anesthesia Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Surgihub Skin color Anesthesiology Lab Kit",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-6a9f6ca7bdd4",
+      "name": "Mindray Anesthesia Machine",
+      "category": "equipment",
+      "subcategory": "Ultrasound Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Ultrasound Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Mindray Anesthesia Machine, listed in the Ultrasound Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Mindray Anesthesia Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-03841457ecba",
+      "name": "Diagnostic Ultrasound Scanners",
+      "category": "equipment",
+      "subcategory": "Ultrasound Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Ultrasound Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Diagnostic Ultrasound Scanners, listed in the Ultrasound Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Diagnostic Ultrasound Scanners",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-e2713e68041a",
+      "name": "Dr. Smith F31 Aloka Ultrasound Machine",
+      "category": "equipment",
+      "subcategory": "Ultrasound Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Ultrasound Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Dr. Smith F31 Aloka Ultrasound Machine, listed in the Ultrasound Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Dr. Smith F31 Aloka Ultrasound Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-4fbbc7741c03",
+      "name": "Medical Hospital Furniture",
+      "category": "furniture",
+      "subcategory": "Hospital Furniture",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Hospital Furniture",
+        "Configuration on enquiry"
+      ],
+      "description": "Medical Hospital Furniture, listed in the Hospital Furniture range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Medical Hospital Furniture",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-202ebef9a340",
+      "name": "Ortho Neuro Attachments",
+      "category": "furniture",
+      "subcategory": "Hospital Furniture",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Hospital Furniture",
+        "Configuration on enquiry"
+      ],
+      "description": "Ortho Neuro Attachments, listed in the Hospital Furniture range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Ortho Neuro Attachments",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-225b312dc9cb",
+      "name": "Stretcher Trolley Cum Chair",
+      "category": "furniture",
+      "subcategory": "Hospital Furniture",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Hospital Furniture",
+        "Configuration on enquiry"
+      ],
+      "description": "Stretcher Trolley Cum Chair, listed in the Hospital Furniture range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Stretcher Trolley Cum Chair",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-65e437c49292",
+      "name": "MICROPROCESSOR CONTROLLED OPERATING TABLE",
+      "category": "furniture",
+      "subcategory": "Operation Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Operation Table",
+        "Configuration on enquiry"
+      ],
+      "description": "MICROPROCESSOR CONTROLLED OPERATING TABLE, listed in the Operation Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "MICROPROCESSOR CONTROLLED OPERATING TABLE",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-f3a6953345b2",
+      "name": "ELECTRIC ANIMAL OPERATING TABLE",
+      "category": "furniture",
+      "subcategory": "Operation Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Operation Table",
+        "Configuration on enquiry"
+      ],
+      "description": "ELECTRIC ANIMAL OPERATING TABLE, listed in the Operation Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ELECTRIC ANIMAL OPERATING TABLE",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-56375a91a895",
+      "name": "ELECTRO MECHANICAL OPERATION TABLE",
+      "category": "furniture",
+      "subcategory": "Operation Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Operation Table",
+        "Configuration on enquiry"
+      ],
+      "description": "ELECTRO MECHANICAL OPERATION TABLE, listed in the Operation Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "ELECTRO MECHANICAL OPERATION TABLE",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-275660de0bf1",
+      "name": "O.T TABLE C-ARM HYDRAULIC",
+      "category": "furniture",
+      "subcategory": "Hydraulic Operation Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Hydraulic Operation Table",
+        "Configuration on enquiry"
+      ],
+      "description": "O.T TABLE C-ARM HYDRAULIC, listed in the Hydraulic Operation Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "O.T TABLE C-ARM HYDRAULIC",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-0f12107ddc6e",
+      "name": "Hydraulic Ot Table",
+      "category": "furniture",
+      "subcategory": "Hydraulic Operation Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Hydraulic Operation Table",
+        "Configuration on enquiry"
+      ],
+      "description": "Hydraulic Ot Table, listed in the Hydraulic Operation Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hydraulic Ot Table",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-e25da5f1cfbf",
+      "name": "O.T TABLE HYDRAULIC",
+      "category": "furniture",
+      "subcategory": "Hydraulic Operation Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Hydraulic Operation Table",
+        "Configuration on enquiry"
+      ],
+      "description": "O.T TABLE HYDRAULIC, listed in the Hydraulic Operation Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "O.T TABLE HYDRAULIC",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-d6d98fcf0e84",
+      "name": "Plain Examination Couch Table",
+      "category": "furniture",
+      "subcategory": "Examination Couch",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Examination Couch",
+        "Configuration on enquiry"
+      ],
+      "description": "Plain Examination Couch Table, listed in the Examination Couch range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Plain Examination Couch Table",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-bb492ef066b0",
+      "name": "MANUAL DELIVERY TABLE 3 SECTION",
+      "category": "furniture",
+      "subcategory": "Examination Couch",
+      "department": "opd",
+      "image": "https://www.drsmith.co.in/assets/obstetrics%20%26%20gynaecology/delivery-table-three-fold-transparent-de9ac627f9.png",
+      "features": [
+        "Examination Couch",
+        "Configuration on enquiry"
+      ],
+      "description": "MANUAL DELIVERY TABLE 3 SECTION, listed in the Examination Couch range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "MANUAL DELIVERY TABLE 3 SECTION",
+      "imageSource": "https://www.drsmith.co.in/catalogue/delivery-table/delivery-table-three-fold-swm-11035",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Unbranded three-fold delivery table, representative of manual three-section delivery table.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-666294785fce",
+      "name": "Four Fold Stretcher",
+      "category": "furniture",
+      "subcategory": "Hospital Stretcher",
+      "department": "emergency",
+      "image": null,
+      "features": [
+        "Hospital Stretcher",
+        "Configuration on enquiry"
+      ],
+      "description": "Four Fold Stretcher, listed in the Hospital Stretcher range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Four Fold Stretcher",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-4e3e4462d2b2",
+      "name": "Two Fold Stretcher",
+      "category": "furniture",
+      "subcategory": "Hospital Stretcher",
+      "department": "emergency",
+      "image": null,
+      "features": [
+        "Hospital Stretcher",
+        "Configuration on enquiry"
+      ],
+      "description": "Two Fold Stretcher, listed in the Hospital Stretcher range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Two Fold Stretcher",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-bbe5310ca904",
+      "name": "Plastic Scoop Stretcher",
+      "category": "furniture",
+      "subcategory": "Hospital Stretcher",
+      "department": "emergency",
+      "image": null,
+      "features": [
+        "Hospital Stretcher",
+        "Configuration on enquiry"
+      ],
+      "description": "Plastic Scoop Stretcher, listed in the Hospital Stretcher range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Plastic Scoop Stretcher",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-01b6c9a158b3",
+      "name": "Infra Red Radiant Baby Warmer",
+      "category": "equipment",
+      "subcategory": "Baby Incubator",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Baby Incubator",
+        "Configuration on enquiry"
+      ],
+      "description": "Infra Red Radiant Baby Warmer, listed in the Baby Incubator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Infra Red Radiant Baby Warmer",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-4f1f83919885",
+      "name": "Baby Incubator Machine",
+      "category": "equipment",
+      "subcategory": "Baby Incubator",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Baby Incubator",
+        "Configuration on enquiry"
+      ],
+      "description": "Baby Incubator Machine, listed in the Baby Incubator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Baby Incubator Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-96a19f421be5",
+      "name": "Medical Baby Incubator",
+      "category": "equipment",
+      "subcategory": "Baby Incubator",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Baby Incubator",
+        "Configuration on enquiry"
+      ],
+      "description": "Medical Baby Incubator, listed in the Baby Incubator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Medical Baby Incubator",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-8e94782580ca",
+      "name": "Bubble Cpap Machine",
+      "category": "equipment",
+      "subcategory": "Bubble CPAP",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Bubble CPAP",
+        "Configuration on enquiry"
+      ],
+      "description": "Bubble Cpap Machine, listed in the Bubble CPAP range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Bubble Cpap Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-7277927a8298",
+      "name": "Bubble C Pap",
+      "category": "equipment",
+      "subcategory": "Bubble CPAP",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Bubble CPAP",
+        "Configuration on enquiry"
+      ],
+      "description": "Bubble C Pap, listed in the Bubble CPAP range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Bubble C Pap",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-f29b2fbe3601",
+      "name": "G-II Auto C-Pap",
+      "category": "equipment",
+      "subcategory": "Bubble CPAP",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Bubble CPAP",
+        "Configuration on enquiry"
+      ],
+      "description": "G-II Auto C-Pap, listed in the Bubble CPAP range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "G-II Auto C-Pap",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-7aea4f5a3f29",
+      "name": "Bed Head Pendants Flow Meters",
+      "category": "mgps",
+      "subcategory": "Flow Meter",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Flow Meter",
+        "Configuration on enquiry"
+      ],
+      "description": "Bed Head Pendants Flow Meters, listed in the Flow Meter range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Bed Head Pendants Flow Meters",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-8db53e87bd33",
+      "name": "FA Valve With Flow Meter",
+      "category": "mgps",
+      "subcategory": "Flow Meter",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Flow Meter",
+        "Configuration on enquiry"
+      ],
+      "description": "FA Valve With Flow Meter, listed in the Flow Meter range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "FA Valve With Flow Meter",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-d2be6ba193b0",
+      "name": "MOX Regulator With Flow Meter",
+      "category": "mgps",
+      "subcategory": "Flow Meter",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Flow Meter",
+        "Configuration on enquiry"
+      ],
+      "description": "MOX Regulator With Flow Meter, listed in the Flow Meter range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "MOX Regulator With Flow Meter",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-5ad287da7fa8",
+      "name": "Three Seater Hospital Chair",
+      "category": "furniture",
+      "subcategory": "Three Seater Waiting Chair",
+      "department": "ward",
+      "image": "https://www.drsmith.co.in/assets/reception%20%26%20administration/three-seater-waiting-chair-chrome-transparent-3010685242.png",
+      "features": [
+        "Three Seater Waiting Chair",
+        "Configuration on enquiry"
+      ],
+      "description": "Three Seater Hospital Chair, listed in the Three Seater Waiting Chair range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Three Seater Hospital Chair",
+      "imageSource": "https://www.drsmith.co.in/catalogue/three-seater/three-seater-waiting-chair-chrome-swm-11052",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Unbranded three-seat hospital waiting chair, chrome style.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-9a1bca4fb589",
+      "name": "Three Seater Waiting Chair",
+      "category": "furniture",
+      "subcategory": "Three Seater Waiting Chair",
+      "department": "ward",
+      "image": "https://www.drsmith.co.in/assets/reception%20%26%20administration/three-seater-waiting-chair-chrome-transparent-3010685242.png",
+      "features": [
+        "Three Seater Waiting Chair",
+        "Configuration on enquiry"
+      ],
+      "description": "Three Seater Waiting Chair, listed in the Three Seater Waiting Chair range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Three Seater Waiting Chair",
+      "imageSource": "https://www.drsmith.co.in/catalogue/three-seater/three-seater-waiting-chair-chrome-swm-11052",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Unbranded three-seat waiting chair; generic configuration reference.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-cae3c296ac4b",
+      "name": "Newborn Baby Intubation Models",
+      "category": "equipment",
+      "subcategory": "Nursing Manikins",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Nursing Manikins",
+        "Configuration on enquiry"
+      ],
+      "description": "Newborn Baby Intubation Models, listed in the Nursing Manikins range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Newborn Baby Intubation Models",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-1b0af14a2e27",
+      "name": "Gallbladder Manikins Set",
+      "category": "equipment",
+      "subcategory": "Nursing Manikins",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Nursing Manikins",
+        "Configuration on enquiry"
+      ],
+      "description": "Gallbladder Manikins Set, listed in the Nursing Manikins range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Gallbladder Manikins Set",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-f16d70bb14a2",
+      "name": "Electrical Dental Chair",
+      "category": "furniture",
+      "subcategory": "Dental Chair",
+      "department": "ward",
+      "image": null,
+      "features": [
+        "Dental Chair",
+        "Configuration on enquiry"
+      ],
+      "description": "Electrical Dental Chair, listed in the Dental Chair range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Electrical Dental Chair",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-c1076985233a",
+      "name": "Blood Donating Chair",
+      "category": "furniture",
+      "subcategory": "Dental Chair",
+      "department": "ward",
+      "image": null,
+      "features": [
+        "Dental Chair",
+        "Configuration on enquiry"
+      ],
+      "description": "Blood Donating Chair, listed in the Dental Chair range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Blood Donating Chair",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-672a43381e70",
+      "name": "Dr. Smith Fetal Doppler",
+      "category": "equipment",
+      "subcategory": "Fetal Doppler",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Fetal Doppler",
+        "Configuration on enquiry"
+      ],
+      "description": "Dr. Smith Fetal Doppler, listed in the Fetal Doppler range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Dr. Smith Fetal Doppler",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-68c0e566c192",
+      "name": "Digital Fetal Doppler",
+      "category": "equipment",
+      "subcategory": "Fetal Doppler",
+      "department": "opd",
+      "image": "https://www.josec.co.za/cdn/shop/files/PocketFoetalDopplerWithLCDDisplay-AD50D.png?v=1727343657&width=1445",
+      "features": [
+        "Fetal Doppler",
+        "Configuration on enquiry"
+      ],
+      "description": "Digital Fetal Doppler, listed in the Fetal Doppler range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Digital Fetal Doppler",
+      "imageSource": "https://www.josec.co.za/products/pocket-foetal-doppler-with-lcd-display-ad50d",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Visually inspected 618\u00d7729 product photograph. White/pink handheld LCD fetal Doppler; printed Fetal Doppler is a generic device label. No visible logo, manufacturer name, watermark or promotional overlay. Representative photograph for generic Digital Fetal Doppler listing, not a verified SWM model.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-32ef89b66f90",
+      "name": "Modular Ot Operation Theater",
+      "category": "mgps",
+      "subcategory": "Modular Operation Theater",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Modular Operation Theater",
+        "Configuration on enquiry"
+      ],
+      "description": "Modular Ot Operation Theater, listed in the Modular Operation Theater range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Modular Ot Operation Theater",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-96c8ba831e2e",
+      "name": "Hospital Delivery Bed",
+      "category": "furniture",
+      "subcategory": "Delivery Bed",
+      "department": "ward",
+      "image": null,
+      "features": [
+        "Delivery Bed",
+        "Configuration on enquiry"
+      ],
+      "description": "Hospital Delivery Bed, listed in the Delivery Bed range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hospital Delivery Bed",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-05f6ea488d5f",
+      "name": "Delivery Bed Hydraulic",
+      "category": "furniture",
+      "subcategory": "Delivery Bed",
+      "department": "ward",
+      "image": null,
+      "features": [
+        "Delivery Bed",
+        "Configuration on enquiry"
+      ],
+      "description": "Delivery Bed Hydraulic, listed in the Delivery Bed range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Delivery Bed Hydraulic",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-9eca14c7c275",
+      "name": "Forehead Frame Nasal Mask",
+      "category": "consumables",
+      "subcategory": "Full Face Masks",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Full Face Masks",
+        "Configuration on enquiry"
+      ],
+      "description": "Forehead Frame Nasal Mask, listed in the Full Face Masks range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Forehead Frame Nasal Mask",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-72bd683e753d",
+      "name": "Full Face Mask",
+      "category": "consumables",
+      "subcategory": "Full Face Masks",
+      "department": "opd",
+      "image": "https://cdn11.bigcommerce.com/s-tpqzcgbzuv/images/stencil/1280x1280/products/966/698/PF260460_PRI01__97161.1642179846.JPG?c=1",
+      "features": [
+        "Full Face Masks",
+        "Configuration on enquiry"
+      ],
+      "description": "Full Face Mask, listed in the Full Face Masks range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Full Face Mask",
+      "imageSource": "https://breathingcaremed.com/niv-full-face-mask-cpap/",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Inspected at full resolution: transparent full-face NIV mask and blue headgear; no visible manufacturer logo or watermark. Generic reference only; do not imply model, sizing, port or ventilation compatibility.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-fda6be880740",
+      "name": "Dental X Ray Machine",
+      "category": "equipment",
+      "subcategory": "Dental X Ray Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Dental X Ray Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Dental X Ray Machine, listed in the Dental X Ray Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Dental X Ray Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-c75ae6720d25",
+      "name": "DS-1O2 MOBILE HF X RAY",
+      "category": "equipment",
+      "subcategory": "Dental X Ray Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Dental X Ray Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "DS-1O2 MOBILE HF X RAY, listed in the Dental X Ray Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "DS-1O2 MOBILE HF X RAY",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-432e5a616d0f",
+      "name": "SS Revolving Stool",
+      "category": "furniture",
+      "subcategory": "SS Revolving Stool",
+      "department": "ward",
+      "image": "https://www.drsmith.co.in/assets/opd%20%26%20examination%20rooms/revolving-stool-transparent-b3661feab1.png",
+      "features": [
+        "SS Revolving Stool",
+        "Configuration on enquiry"
+      ],
+      "description": "SS Revolving Stool, listed in the SS Revolving Stool range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "SS Revolving Stool",
+      "imageSource": "https://www.drsmith.co.in/catalogue/revolving-stool/revolving-stool-swm-11056",
+      "origin": "swm",
+      "imageKind": "exact",
+      "imageReview": "Matching stainless-steel revolving stool; no visible branding or watermark.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-59f1755f1846",
+      "name": "Deluxe Revolving Stool",
+      "category": "furniture",
+      "subcategory": "SS Revolving Stool",
+      "department": "ward",
+      "image": null,
+      "features": [
+        "SS Revolving Stool",
+        "Configuration on enquiry"
+      ],
+      "description": "Deluxe Revolving Stool, listed in the SS Revolving Stool range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Deluxe Revolving Stool",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-65c651c9c91d",
+      "name": "Jay-5 Single Flow Oxygen Concentrator",
+      "category": "equipment",
+      "subcategory": "Oxygen Concentrator Machine",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Oxygen Concentrator Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Jay-5 Single Flow Oxygen Concentrator, listed in the Oxygen Concentrator Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Jay-5 Single Flow Oxygen Concentrator",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-5f0bdc8ff698",
+      "name": "Oxygen Concentrator",
+      "category": "equipment",
+      "subcategory": "Oxygen Concentrator Machine",
+      "department": "icu",
+      "image": "https://sc04.alicdn.com/kf/H82e2768824d34f26ad33d2527005a092k.jpg",
+      "features": [
+        "Oxygen Concentrator Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Oxygen Concentrator, listed in the Oxygen Concentrator Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Oxygen Concentrator",
+      "imageSource": "https://www.minterhealth.com/portable-5l-oxygen-generator",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Inspected clean stationary oxygen concentrator on white background. Front shows operational control labels only, no manufacturer wordmark/logo or watermark. Generic reference; quoted configuration must be confirmed.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-33058391ea04",
+      "name": "X Ray Film",
+      "category": "equipment",
+      "subcategory": "X Ray Film and View Box",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "X Ray Film and View Box",
+        "Configuration on enquiry"
+      ],
+      "description": "X Ray Film, listed in the X Ray Film and View Box range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "X Ray Film",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-2db6f988c170",
+      "name": "LED X Ray View Box",
+      "category": "equipment",
+      "subcategory": "X Ray Film and View Box",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "X Ray Film and View Box",
+        "Configuration on enquiry"
+      ],
+      "description": "LED X Ray View Box, listed in the X Ray Film and View Box range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "LED X Ray View Box",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-4bed8ab213cc",
+      "name": "Neonatal Compressed Flow Meter",
+      "category": "mgps",
+      "subcategory": "Compressed Flow Meter",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Compressed Flow Meter",
+        "Configuration on enquiry"
+      ],
+      "description": "Neonatal Compressed Flow Meter, listed in the Compressed Flow Meter range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Neonatal Compressed Flow Meter",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-9d83c821cc15",
+      "name": "Back Pressure Compressed Flow Meter",
+      "category": "mgps",
+      "subcategory": "Compressed Flow Meter",
+      "department": "opd",
+      "image": "https://www.drsmith.co.in/assets/respiratory%20%26%20pulmonology/bpc-flow-meter-transparent-379d910017.png",
+      "features": [
+        "Compressed Flow Meter",
+        "Configuration on enquiry"
+      ],
+      "description": "Back Pressure Compressed Flow Meter, listed in the Compressed Flow Meter range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Back Pressure Compressed Flow Meter",
+      "imageSource": "https://www.drsmith.co.in/catalogue/modular-ot/cat-bpc-flow-meter",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Previously full-size inspected oxygen BPC flow meter with bottle, no branding or watermark. Generic oxygen/BPC assembly reference; flow range and supplied accessories require confirmation.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-c03db0d05eb2",
+      "name": "Maquet Servo Ventilator",
+      "category": "equipment",
+      "subcategory": "Hospital Ventilator",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Hospital Ventilator",
+        "Configuration on enquiry"
+      ],
+      "description": "Maquet Servo Ventilator, listed in the Hospital Ventilator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Maquet Servo Ventilator",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-ec7a95fc1704",
+      "name": "Hamilton Medical Ventilators",
+      "category": "equipment",
+      "subcategory": "Hospital Ventilator",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Hospital Ventilator",
+        "Configuration on enquiry"
+      ],
+      "description": "Hamilton Medical Ventilators, listed in the Hospital Ventilator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hamilton Medical Ventilators",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-ebb18bab94f1",
+      "name": "Hospital Bed ABS Panel",
+      "category": "furniture",
+      "subcategory": "Hospital Bed ABS Panel",
+      "department": "ward",
+      "image": null,
+      "features": [
+        "Hospital Bed ABS Panel",
+        "Configuration on enquiry"
+      ],
+      "description": "Hospital Bed ABS Panel, listed in the Hospital Bed ABS Panel range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hospital Bed ABS Panel",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-13eb556fc76c",
+      "name": "Hydraulic Dental Chair",
+      "category": "furniture",
+      "subcategory": "Electric Dental Chair",
+      "department": "ward",
+      "image": null,
+      "features": [
+        "Electric Dental Chair",
+        "Configuration on enquiry"
+      ],
+      "description": "Hydraulic Dental Chair, listed in the Electric Dental Chair range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hydraulic Dental Chair",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-a29c9162c221",
+      "name": "Surgi HUB-128 Syringe Pump",
+      "category": "equipment",
+      "subcategory": "Syringe Pump",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Syringe Pump",
+        "Configuration on enquiry"
+      ],
+      "description": "Surgi HUB-128 Syringe Pump, listed in the Syringe Pump range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Surgi HUB-128 Syringe Pump",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-58acfccdeebf",
+      "name": "Aspiret Niscomed Portable Suction",
+      "category": "equipment",
+      "subcategory": "Suction Unit",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Suction Unit",
+        "Configuration on enquiry"
+      ],
+      "description": "Aspiret Niscomed Portable Suction, listed in the Suction Unit range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Aspiret Niscomed Portable Suction",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-7f32d99e2555",
+      "name": "SEMI ELECTRIC OT TABLE GENERAL",
+      "category": "equipment",
+      "subcategory": "Operation Theatre Table",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Operation Theatre Table",
+        "Configuration on enquiry"
+      ],
+      "description": "SEMI ELECTRIC OT TABLE GENERAL, listed in the Operation Theatre Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "SEMI ELECTRIC OT TABLE GENERAL",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-0a1ceec8fa90",
+      "name": "SS Vertical Autoclave",
+      "category": "equipment",
+      "subcategory": "Vertical Autoclave",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Vertical Autoclave",
+        "Configuration on enquiry"
+      ],
+      "description": "SS Vertical Autoclave, listed in the Vertical Autoclave range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "SS Vertical Autoclave",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-e9dc8fdbfe3b",
+      "name": "Electric Delivery Table",
+      "category": "furniture",
+      "subcategory": "Delivery Table",
+      "department": "ot",
+      "image": "https://www.drsmith.co.in/assets/obstetrics%20%26%20gynaecology/delivery-table-electric-manual-transparent-38c2d70488.png",
+      "features": [
+        "Delivery Table",
+        "Configuration on enquiry"
+      ],
+      "description": "Electric Delivery Table, listed in the Delivery Table range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Electric Delivery Table",
+      "imageSource": "https://www.drsmith.co.in/catalogue/delivery-table/delivery-table-electric-manual-swm-11037",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Unbranded electric/manual delivery table; generic electric delivery table reference.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-228a3f7a9ea7",
+      "name": "Bed Headed Panels",
+      "category": "mgps",
+      "subcategory": "Hospital Bed Head Panel",
+      "department": "ward",
+      "image": "https://www.drsmith.co.in/assets/operation%20theatre%20%26%20anaesthesia/bed-head-panel-lumipan-transparent-6b8b845eed.png",
+      "features": [
+        "Hospital Bed Head Panel",
+        "Configuration on enquiry"
+      ],
+      "description": "Bed Headed Panels, listed in the Hospital Bed Head Panel range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Bed Headed Panels",
+      "imageSource": "https://www.drsmith.co.in/catalogue/modular-ot/cat-bed-head-panel-lumipan",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Inspected 500x333 source: green/white horizontal bed head service panel and bracket, no visible branding or watermark. Clear generic reference at card size; exact outlets, length and configuration require confirmation.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-4f6b0dfb0478",
+      "name": "C Arm Machines",
+      "category": "equipment",
+      "subcategory": "C Arm Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "C Arm Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "C Arm Machines, listed in the C Arm Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "C Arm Machines",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-b8f27bc77eb3",
+      "name": "Gray Slide Modular Ot Doors For Hospital",
+      "category": "mgps",
+      "subcategory": "Operation Theater Door",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Operation Theater Door",
+        "Configuration on enquiry"
+      ],
+      "description": "Gray Slide Modular Ot Doors For Hospital, listed in the Operation Theater Door range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Gray Slide Modular Ot Doors For Hospital",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-c732d3087cd4",
+      "name": "Full Functional Child CPR Material - PVC, Rubber",
+      "category": "equipment",
+      "subcategory": "Cpr Training Manikin",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Cpr Training Manikin",
+        "Configuration on enquiry"
+      ],
+      "description": "Full Functional Child CPR Material - PVC, Rubber, listed in the Cpr Training Manikin range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Full Functional Child CPR Material - PVC, Rubber",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-240c1fcce593",
+      "name": "Oxygen Flow Meter",
+      "category": "mgps",
+      "subcategory": "Oxygen Flow Meter",
+      "department": "icu",
+      "image": "https://www.drsmith.co.in/assets/respiratory%20%26%20pulmonology/bpc-flow-meter-transparent-379d910017.png",
+      "features": [
+        "Oxygen Flow Meter",
+        "Configuration on enquiry"
+      ],
+      "description": "Oxygen Flow Meter, listed in the Oxygen Flow Meter range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Oxygen Flow Meter",
+      "imageSource": "https://www.drsmith.co.in/catalogue/modular-ot/cat-bpc-flow-meter",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Previously full-size inspected oxygen BPC flow meter with bottle, no branding or watermark. Generic oxygen/BPC assembly reference; flow range and supplied accessories require confirmation.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-08d52c1569fc",
+      "name": "Newborn Baby Advanced Care Manikin",
+      "category": "equipment",
+      "subcategory": "Medical Models",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Medical Models",
+        "Configuration on enquiry"
+      ],
+      "description": "Newborn Baby Advanced Care Manikin, listed in the Medical Models range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Newborn Baby Advanced Care Manikin",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-04f92e246ff5",
+      "name": "Siemens MRI Scan Machines",
+      "category": "equipment",
+      "subcategory": "Mri Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Mri Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Siemens MRI Scan Machines, listed in the Mri Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Siemens MRI Scan Machines",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-5352110c9b18",
+      "name": "Arterial Blood Gas Machine",
+      "category": "mgps",
+      "subcategory": "Blood Gas Analyzer",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Blood Gas Analyzer",
+        "Configuration on enquiry"
+      ],
+      "description": "Arterial Blood Gas Machine, listed in the Blood Gas Analyzer range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Arterial Blood Gas Machine",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-4a9c63243ef4",
+      "name": "C T Scan Machines",
+      "category": "equipment",
+      "subcategory": "Ct Scan Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Ct Scan Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "C T Scan Machines, listed in the Ct Scan Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "C T Scan Machines",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-a4c6cff0ddd5",
+      "name": "Resmed Astral 150 Ventilator",
+      "category": "equipment",
+      "subcategory": "Ct Scan Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Ct Scan Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Resmed Astral 150 Ventilator, listed in the Ct Scan Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Resmed Astral 150 Ventilator",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-ef1d89efcff7",
+      "name": "Refurbished Ventilator",
+      "category": "equipment",
+      "subcategory": "Ct Scan Machine",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Ct Scan Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Refurbished Ventilator, listed in the Ct Scan Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Refurbished Ventilator",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-ed830cb60d3d",
+      "name": "Folding Manual Wheelchair",
+      "category": "furniture",
+      "subcategory": "Folding Manual Wheelchair",
+      "department": "ward",
+      "image": "https://www.drsmith.co.in/assets/general%20wards%20%26%20patient%20rooms/wheel-chair-indian-imported-transparent-d3e76915ae.png",
+      "features": [
+        "Folding Manual Wheelchair",
+        "Configuration on enquiry"
+      ],
+      "description": "Folding Manual Wheelchair, listed in the Folding Manual Wheelchair range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Folding Manual Wheelchair",
+      "imageSource": "https://www.drsmith.co.in/catalogue/wheelchairs/wheel-chair-indian-imported-swm-11063",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Previously inspected clean unbranded photograph matching this generic product type. Quoted configuration must be confirmed.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-3b1e144161bf",
+      "name": "Endoscopy Camera",
+      "category": "equipment",
+      "subcategory": "Endoscopy Camera",
+      "department": "ot",
+      "image": "https://www.tuyoumedical.com/photo/ps203428682-tuyou_tu_lsd10kb_fhd_integrated_led_light_source_medical_endoscopy_camera_for_ent_and_laparoscopy.jpg",
+      "features": [
+        "Endoscopy Camera",
+        "Configuration on enquiry"
+      ],
+      "description": "Endoscopy Camera, listed in the Endoscopy Camera range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Endoscopy Camera",
+      "imageSource": "https://www.tuyoumedical.com/sale-52096600-tuyou-tu-lsd10kb-fhd-integrated-led-light-source-medical-endoscopy-camera-for-ent-and-laparoscopy.html",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Inspected high-resolution camera unit and probe. No manufacturer name, wordmark or watermark visible. The small blue circle at upper-left is the read-instructions safety pictogram, not branding. Generic endoscopy camera reference.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-2d1c45aa7631",
+      "name": "Manual Needle Destroyer",
+      "category": "equipment",
+      "subcategory": "Needle Destroyer",
+      "department": "opd",
+      "image": "https://i.ebayimg.com/images/g/y3UAAOSwvGdn2Q0M/s-l1600.jpg",
+      "features": [
+        "Needle Destroyer",
+        "Configuration on enquiry"
+      ],
+      "description": "Manual Needle Destroyer, listed in the Needle Destroyer range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Manual Needle Destroyer",
+      "imageSource": "https://www.ebay.fr/itm/396499708011",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Inspected full-size steel manual cutter image: no manufacturer logo, watermark or branding. Contains generic operating labels, origin and sales-description text. Generic product-type reference only.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-710cc1e1645b",
+      "name": "Cricotracheotomy Trainer Set",
+      "category": "equipment",
+      "subcategory": "Nursing Models",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Nursing Models",
+        "Configuration on enquiry"
+      ],
+      "description": "Cricotracheotomy Trainer Set, listed in the Nursing Models range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Cricotracheotomy Trainer Set",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-7518f86a439b",
+      "name": "Bi Pap C Pap Machines",
+      "category": "equipment",
+      "subcategory": "Bipap Machine",
+      "department": "icu",
+      "image": null,
+      "features": [
+        "Bipap Machine",
+        "Configuration on enquiry"
+      ],
+      "description": "Bi Pap C Pap Machines, listed in the Bipap Machine range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Bi Pap C Pap Machines",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-89ed7ca20e0f",
+      "name": "Aluminum Laboratory Rectangular Hot Plate",
+      "category": "equipment",
+      "subcategory": "Laboratory Equipment",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Laboratory Equipment",
+        "Configuration on enquiry"
+      ],
+      "description": "Aluminum Laboratory Rectangular Hot Plate, listed in the Laboratory Equipment range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Aluminum Laboratory Rectangular Hot Plate",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-173ed329f1fe",
+      "name": "CMS-70A Table Top Pulse Oximeter",
+      "category": "equipment",
+      "subcategory": "Tabletop Pulse Oximeter",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Tabletop Pulse Oximeter",
+        "Configuration on enquiry"
+      ],
+      "description": "CMS-70A Table Top Pulse Oximeter, listed in the Tabletop Pulse Oximeter range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "CMS-70A Table Top Pulse Oximeter",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-1441c82a18ff",
+      "name": "30L Digital CO2 Insufflator",
+      "category": "equipment",
+      "subcategory": "Digital CO2 Insufflator",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Digital CO2 Insufflator",
+        "Configuration on enquiry"
+      ],
+      "description": "30L Digital CO2 Insufflator, listed in the Digital CO2 Insufflator range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "30L Digital CO2 Insufflator",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-d4ceebaa1e8d",
+      "name": "Hospital Instrument Cabinet",
+      "category": "furniture",
+      "subcategory": "Instrument Cabinet",
+      "department": "ot",
+      "image": "https://asco-furniture.com/wp-content/uploads/2020/12/Instrument-Equipment-cabinet-SS-MF6815-792x1024.jpg",
+      "features": [
+        "Instrument Cabinet",
+        "Configuration on enquiry"
+      ],
+      "description": "Hospital Instrument Cabinet, listed in the Instrument Cabinet range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hospital Instrument Cabinet",
+      "imageSource": "https://www.drsmith.co.in/catalogue/hf09-medical-cabinets-storage",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Clean stainless-steel double-glass-door cabinet, with no branding visible.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-16d8d8725a41",
+      "name": "Spine Board Stretcher",
+      "category": "furniture",
+      "subcategory": "Spine Board",
+      "department": "emergency",
+      "image": "https://www.josec.co.za/cdn/shop/files/SpineboardDWPE002.webp?v=1698093062&width=1946",
+      "features": [
+        "Spine Board",
+        "Configuration on enquiry"
+      ],
+      "description": "Spine Board Stretcher, listed in the Spine Board range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Spine Board Stretcher",
+      "imageSource": "https://www.josec.co.za/products/spineboard-dwpe002",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Plain orange spine board, visually inspected with no logo, watermark or printed branding.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-81829a3c49e0",
+      "name": "Gas Cum Electric Autoclaves",
+      "category": "equipment",
+      "subcategory": "Autoclave Sterilizer",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Autoclave Sterilizer",
+        "Configuration on enquiry"
+      ],
+      "description": "Gas Cum Electric Autoclaves, listed in the Autoclave Sterilizer range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Gas Cum Electric Autoclaves",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-63edfc6d20c1",
+      "name": "Horizontal Cylindrical Autoclave",
+      "category": "equipment",
+      "subcategory": "Horizontal Cylindrical Autoclave",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Horizontal Cylindrical Autoclave",
+        "Configuration on enquiry"
+      ],
+      "description": "Horizontal Cylindrical Autoclave, listed in the Horizontal Cylindrical Autoclave range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Horizontal Cylindrical Autoclave",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-cdfd957fe1e6",
+      "name": "Portable Autoclave Single Drum",
+      "category": "equipment",
+      "subcategory": "Portable Autoclave",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Portable Autoclave",
+        "Configuration on enquiry"
+      ],
+      "description": "Portable Autoclave Single Drum, listed in the Portable Autoclave range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Portable Autoclave Single Drum",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-0f8e16454909",
+      "name": "Hematology Analyser",
+      "category": "equipment",
+      "subcategory": "Hematology Analyzer",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Hematology Analyzer",
+        "Configuration on enquiry"
+      ],
+      "description": "Hematology Analyser, listed in the Hematology Analyzer range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Hematology Analyser",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-fd618ac28484",
+      "name": "Dispoable PPE Kit",
+      "category": "consumables",
+      "subcategory": "Dispoable PPE Kit",
+      "department": "opd",
+      "image": "https://arogyamed.com/wp-content/uploads/2023/04/persona_protective_equipment_ppe_kit.png",
+      "features": [
+        "Dispoable PPE Kit",
+        "Configuration on enquiry"
+      ],
+      "description": "Dispoable PPE Kit, listed in the Dispoable PPE Kit range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Dispoable PPE Kit",
+      "imageSource": "https://arogyamed.com/medical-consumable/",
+      "origin": "swm",
+      "imageKind": "representative",
+      "imageReview": "Full-size visual inspection: clear coverall, mask, gloves and shoe covers on white; no visible branding, watermark or logo. Generic kit reference, included components and specifications require confirmation.",
+      "imageReviewed": "2026-11-08"
+    },
+    {
+      "id": "swm-82593bd96553",
+      "name": "Digital Gas Alarm System",
+      "category": "mgps",
+      "subcategory": "Medical Gas Alarm",
+      "department": "ot",
+      "image": null,
+      "features": [
+        "Medical Gas Alarm",
+        "Configuration on enquiry"
+      ],
+      "description": "Digital Gas Alarm System, listed in the Medical Gas Alarm range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Digital Gas Alarm System",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-11af0f1a1a20",
+      "name": "Intro to Obstetrics Manikins",
+      "category": "equipment",
+      "subcategory": "Obstetrical Manikins & Birthing Simulators",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Obstetrical Manikins & Birthing Simulators",
+        "Configuration on enquiry"
+      ],
+      "description": "Intro to Obstetrics Manikins, listed in the Obstetrical Manikins & Birthing Simulators range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Intro to Obstetrics Manikins",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-338f25ad78e7",
+      "name": "Industrial Oxygen Cylinder",
+      "category": "equipment",
+      "subcategory": "Obstetrical Manikins & Birthing Simulators",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "Obstetrical Manikins & Birthing Simulators",
+        "Configuration on enquiry"
+      ],
+      "description": "Industrial Oxygen Cylinder, listed in the Obstetrical Manikins & Birthing Simulators range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Industrial Oxygen Cylinder",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    },
+    {
+      "id": "swm-466681e66d4f",
+      "name": "Oil Free Air Compressor",
+      "category": "equipment",
+      "subcategory": "New Items",
+      "department": "opd",
+      "image": null,
+      "features": [
+        "New Items",
+        "Configuration on enquiry"
+      ],
+      "description": "Oil Free Air Compressor, listed in the New Items range. Ask our team for the current specification, product photograph, availability and quotation.",
+      "source": "https://www.surgicalwholesalemart.co.in/products-and-services.html",
+      "sourceName": "Oil Free Air Compressor",
+      "imageSource": null,
+      "photoStatus": "request",
+      "origin": "swm"
+    }
+  ],
+  "departments": [
+    {
+      "id": "icu",
+      "name": "ICU & Critical Care"
+    },
+    {
+      "id": "ot",
+      "name": "Operation Theatre"
+    },
+    {
+      "id": "ward",
+      "name": "Wards & Patient Rooms"
+    },
+    {
+      "id": "opd",
+      "name": "OPD & Examination"
+    },
+    {
+      "id": "emergency",
+      "name": "Emergency & Trauma"
+    }
+  ]
+}

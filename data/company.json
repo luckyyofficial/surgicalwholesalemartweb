@@ -1,0 +1,241 @@
+{
+  "source": "https://www.drsmith.co.in/",
+  "reviewed": "2026-11-08",
+  "brand": "Dr. Smith",
+  "registered": 2024,
+  "familyExperience": "65+ years",
+  "buildJourney": 2015,
+  "email": "info@drsmith.co.in",
+  "tollFree": "1800 891 7466",
+  "phone": "+91 9289976683",
+  "whatsapp": "919289976683",
+  "leadership": [
+    {
+      "name": "Manu Mahajan",
+      "role": "Chairperson",
+      "focus": "Long-term direction and values"
+    },
+    {
+      "name": "Kamal Mahajan",
+      "role": "Managing Director",
+      "focus": "Business operations and the healthcare product portfolio"
+    },
+    {
+      "name": "Danjali Mahajan",
+      "role": "CEO",
+      "focus": "Strategy, execution and customer-focused growth"
+    },
+    {
+      "name": "Naman Mahajan",
+      "role": "CMO",
+      "focus": "Marketing, product communication and customer relationships"
+    }
+  ],
+  "locations": [
+    {
+      "id": "jhajjar",
+      "name": "Jhajjar",
+      "role": "Manufacturer",
+      "group": "manufacturing",
+      "country": "India",
+      "region": "Haryana",
+      "address": "Plot No. 20, Street No. H, Sector 2B, Model Economic Township Limited, Village Dadri Toe, Tehsil Badli, District Jhajjar, Haryana, India.",
+      "fullAddress": true,
+      "phone": "919289976683",
+      "phoneDisplay": "+91 9289976683",
+      "contactLabel": "Central support",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": [],
+      "displayName": "Manufacturer - Jhajjar"
+    },
+    {
+      "id": "kapashera",
+      "name": "Kapashera, New Delhi",
+      "role": "Experience centre",
+      "group": "experience",
+      "country": "India",
+      "region": "Delhi",
+      "address": "Plot No. 75/02, Shri Sai Complex, Ground Floor, Opp. Nimity Building - 108, Behind IGL CNG Pump, Kapashera Border, New Delhi \u2013 110037.",
+      "fullAddress": true,
+      "phone": "919205544064",
+      "phoneDisplay": "+91 92055 44064",
+      "contactLabel": "Kapashera contact",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": [],
+      "displayName": "Experience centre - Kapashera, New Delhi"
+    },
+    {
+      "id": "patna",
+      "name": "Patna",
+      "role": "Experience centre",
+      "group": "experience",
+      "country": "India",
+      "region": "Bihar",
+      "address": "Yadav Bhawan, Near Shiv Mandir, Zero Mile Badi Pahari, Ward No. - 56, Distt. - Patna - 800030, Bihar (INDIA)",
+      "fullAddress": true,
+      "phone": "919289976683",
+      "phoneDisplay": "+91 9289976683",
+      "contactLabel": "Central support",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": [],
+      "displayName": "Experience centre - Patna"
+    },
+    {
+      "id": "kolkata",
+      "name": "Kolkata",
+      "role": "Experience centre",
+      "group": "experience",
+      "country": "India",
+      "region": "West Bengal",
+      "address": "Garia Boral, Main Road, School Math Khan, Para Bonhooghly-1, No Gram Panchayat, District South-24, Parganas, Kolkata-700103 (INDIA)",
+      "fullAddress": true,
+      "phone": "919289976683",
+      "phoneDisplay": "+91 9289976683",
+      "contactLabel": "Central support",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": [],
+      "displayName": "Experience centre - Kolkata"
+    },
+    {
+      "id": "varanasi",
+      "name": "Varanasi",
+      "role": "Experience centre",
+      "group": "experience",
+      "country": "India",
+      "region": "Uttar Pradesh",
+      "address": "Akhri Bypass, Gt Road, District Varanasi-221011 (U.P.)",
+      "fullAddress": true,
+      "phone": "919289976683",
+      "phoneDisplay": "+91 9289976683",
+      "contactLabel": "Central support",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": [],
+      "displayName": "Experience centre - Varanasi"
+    },
+    {
+      "id": "guwahati",
+      "name": "Guwahati",
+      "role": "Experience centre",
+      "group": "experience",
+      "country": "India",
+      "region": "Assam",
+      "address": "7 Tarun Nagar, bye Lane No-2, Under P.S. Bhangagarh, District of Kamrup - 781005, Guwahati (Assam)",
+      "fullAddress": true,
+      "phone": "919289976683",
+      "phoneDisplay": "+91 9289976683",
+      "contactLabel": "Central support",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": [],
+      "displayName": "Experience centre - Guwahati"
+    },
+    {
+      "id": "maharashtra",
+      "name": "Nagpur",
+      "role": "Experience centre",
+      "group": "experience",
+      "country": "India",
+      "region": "Maharashtra",
+      "address": "Nagpur, Maharashtra, India.",
+      "fullAddress": false,
+      "phone": "919289976683",
+      "phoneDisplay": "+91 9289976683",
+      "contactLabel": "Central support",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": [],
+      "displayName": "Experience centre - Nagpur"
+    },
+    {
+      "id": "sharjah",
+      "name": "UAE, Sharjah",
+      "role": "Experience centre",
+      "group": "experience",
+      "country": "UAE",
+      "region": "Sharjah",
+      "address": "Q4-223, Warehouse Number, Saif Zone, Sharjah, UAE",
+      "fullAddress": true,
+      "phone": "919310726927",
+      "phoneDisplay": "+91 93107 26927",
+      "contactLabel": "Sharjah / export contact",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": [
+        {
+          "number": "919205544064",
+          "display": "+91 92055 44064"
+        },
+        {
+          "number": "919289976683",
+          "display": "+91 9289976683"
+        },
+        {
+          "number": "919599081021",
+          "display": "+91 95990 81021"
+        },
+        {
+          "number": "919599081022",
+          "display": "+91 95990 81022"
+        }
+      ],
+      "displayName": "Experience centre - UAE, Sharjah"
+    },
+    {
+      "id": "daryaganj",
+      "name": "New Delhi, Daryaganj",
+      "role": "Head office",
+      "group": "offices",
+      "country": "India",
+      "region": "Delhi",
+      "address": "Plot No. 47, Near Hindi Park, Daryaganj, Delhi - 110002, India.",
+      "fullAddress": true,
+      "phone": "919289976683",
+      "phoneDisplay": "+91 9289976683",
+      "contactLabel": "Central support",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": []
+    },
+    {
+      "id": "bhagirath-place",
+      "name": "Bhagirath Place, Delhi",
+      "role": "Branch office",
+      "group": "offices",
+      "country": "India",
+      "region": "Delhi",
+      "address": "Bhagirath Place, Delhi, India.",
+      "fullAddress": false,
+      "phone": "919289976683",
+      "phoneDisplay": "+91 9289976683",
+      "contactLabel": "Central support",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": []
+    }
+  ],
+  "legacyLocations": [
+    {
+      "id": "punjab",
+      "name": "Punjab Service Centre",
+      "role": "Service centre",
+      "group": "service",
+      "country": "India",
+      "region": "Punjab",
+      "address": "Punjab, India.",
+      "fullAddress": false,
+      "phone": "919289976683",
+      "phoneDisplay": "+91 9289976683",
+      "contactLabel": "Central support",
+      "email": "info@drsmith.co.in",
+      "additionalPhones": []
+    }
+  ],
+  "sources": [
+    "https://www.drsmith.co.in/about-us",
+    "https://www.drsmith.co.in/contact-form",
+    "https://www.drsmith.co.in/group-companies",
+    "https://www.drsmith.co.in/turnkey-projects",
+    "https://www.drsmith.co.in/about-us/warranty",
+    "https://www.drsmith.co.in/about-us/privacy",
+    "https://www.drsmith.co.in/about-us/terms"
+  ],
+  "social": {
+    "instagram": "https://www.instagram.com/surgicalwholesalemart.virtual",
+    "youtube": "https://www.youtube.com/@surgicalwholesalemart.insider"
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "swm-03841457ecba",
+    "reason": "Dr. Smith source ultrasound image has visible Mindray branding; no verified clean replacement found."
+  },
+  {
+    "id": "swm-5352110c9b18",
+    "reason": "Matching Dr. Smith arterial blood-gas photo has a large watermark; excluded."
+  },
+  {
+    "id": "swm-89ed7ca20e0f",
+    "reason": "Inspected Labasics/DM/Thermo hot-plate candidates visibly branded; another candidate was low-resolution and uncertain front label. Excluded."
+  },
+  {
+    "id": "swm-0f8e16454909",
+    "reason": "Inspected OEM-source hematology analyzer photo has visible Dymind/model branding and color-band artifacts; excluded."
+  }
+]
